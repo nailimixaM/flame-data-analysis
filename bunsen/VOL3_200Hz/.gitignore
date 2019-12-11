@@ -1,0 +1,7 @@
+*.mp4
+.ipynb_checkpoints/
+inout*
+input*
+output*
+ref/
+visualisation*
